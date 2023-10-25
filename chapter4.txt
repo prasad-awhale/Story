@@ -1,0 +1,1 @@
+In terms of db i know about pgsql, mongodb
